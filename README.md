@@ -1,4 +1,3 @@
-# 450ques
-implementation of love babbar 450 questions
+# DSA PRACTICE
 
-I've created this repository to attempt 450 sde questions in javascript mainly and store them here with documentation for future rememberence .
+Here i will practice dsa questions in different languages with explainations
