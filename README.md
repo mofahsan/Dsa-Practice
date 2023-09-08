@@ -1,3 +1,2 @@
-# DSA PRACTICE
+# DSA Notes
 
-Here i will practice dsa questions in different languages with explainations
